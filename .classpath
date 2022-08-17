@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/universidad/ProyectoFinal/verificadora/verificadora/src/librerias/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/universidad/ProyectoFinal/verificadora/verificadora/src/librerias/commons-digester-2.1.jar"/>
+	<classpathentry kind="lib" path="D:/universidad/ProyectoFinal/verificadora/verificadora/src/librerias/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/universidad/ProyectoFinal/verificadora/verificadora/src/librerias/fuentes.jar"/>
+	<classpathentry kind="lib" path="D:/universidad/ProyectoFinal/verificadora/verificadora/src/librerias/itextpdf-5.5.4.jar"/>
+	<classpathentry kind="lib" path="D:/universidad/ProyectoFinal/verificadora/verificadora/src/librerias/itext-pdfa-5.5.4.jar"/>
+	<classpathentry kind="lib" path="D:/universidad/ProyectoFinal/verificadora/verificadora/src/librerias/jasperreports-6.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/universidad/ProyectoFinal/verificadora/verificadora/src/librerias/jasperreports-fonts-4.0.2.jar"/>
+	<classpathentry kind="lib" path="D:/universidad/ProyectoFinal/verificadora/verificadora/src/librerias/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="D:/universidad/ProyectoFinal/verificadora/verificadora/src/librerias/jgoodies-common-1.2.0.jar"/>
+	<classpathentry kind="lib" path="D:/universidad/ProyectoFinal/verificadora/verificadora/src/librerias/jgoodies-looks-2.4.1.jar"/>
+	<classpathentry kind="lib" path="D:/universidad/ProyectoFinal/verificadora/verificadora/src/librerias/JTimeChooser_0.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/universidad/ProyectoFinal/verificadora/verificadora/src/librerias/junit-4.6.jar"/>
+	<classpathentry kind="lib" path="D:/universidad/ProyectoFinal/verificadora/verificadora/src/librerias/mysql-connector-java-5.1.7-bin.jar"/>
+	<classpathentry kind="lib" path="D:/universidad/ProyectoFinal/verificadora/verificadora/src/librerias/mysql-connector-java-8.0.26.jar"/>
+	<classpathentry kind="lib" path="D:/universidad/ProyectoFinal/verificadora/verificadora/src/librerias/org.apache.commons.beanutils.jar"/>
+	<classpathentry kind="lib" path="D:/universidad/ProyectoFinal/verificadora/verificadora/src/librerias/PanamaHitek_Arduino-2.7.3.jar"/>
+	<classpathentry kind="lib" path="D:/universidad/ProyectoFinal/verificadora/verificadora/src/librerias/PanamaHitek_Arduino-3.0.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/universidad/ProyectoFinal/verificadora/verificadora/src/librerias/RXTXcomm.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

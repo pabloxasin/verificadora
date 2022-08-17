@@ -1,0 +1,4 @@
+puerto=COM6
+caracterInicio=1
+iniCadena=@
+separador=/
